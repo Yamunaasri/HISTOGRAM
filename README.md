@@ -89,10 +89,13 @@ Color Image
 <br>
 
 ### Histogram Equalization of Grayscale Image
+
 Original Image
+
 ![Screenshot 2023-09-05 144411](https://github.com/Yamunaasri/HISTOGRAM/assets/115707860/a9292599-3dd0-4387-bcdc-3b73e7901601)
 
 Equalized Image
+
 ![Screenshot 2023-09-05 144420](https://github.com/Yamunaasri/HISTOGRAM/assets/115707860/0ee182cd-5729-41b5-b88d-81fe1f7a9754)
 
 <br>
